@@ -1,0 +1,17 @@
+{
+  "name": "Mozilla Reps Companion",
+  "description": "Easy access to tools, documentation, and more for Mozilla Reps",
+  "launch_path": "/index.html",
+  "developer": {
+    "name": "Mozilla Tunisia",
+    "url": "https://github.com/moztn/reps-4-B2G"
+  },
+  "permissions": [
+  ],
+  "default_locale": "en-US",
+  "icons": {
+    "120": "/img/icon64.png",
+    "60": "/img/icon64.png"
+  },
+  "orientation": "portrait-primary"
+}
